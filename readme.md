@@ -34,6 +34,9 @@ This is a list of Computer Science free courses and resources available on Githu
 - Computer Vision applied Deep learning for Self-driving Cars
 - Visual Perception For Self-Driving Cars
 
+## Self-Driving Cars
+
+- [Self-Driving Cars Specialization - @afondiel - 2023](https://github.com/afondiel/Self-Driving-Cars-Specialization)
 
 ## Programming
 
