@@ -16,7 +16,9 @@ This is a list of Computer Science free courses and resources available on Githu
 	- Unsupervised
 	- Reinforcement 
 - LLMs
+  - [LangChain-For-LLM-Application-Dev-DeepLearningAI - @afondiel - 2023](https://github.com/afondiel/LangChain-For-LLM-Application-Dev-DeepLearningAI)
 - Prompt Engineering
+  - [ChatGPT-Prompt-Engineering-DeepLearningAI - @afondiel - 2023 ](https://github.com/afondiel/ChatGPT-Prompt-Engineering-DeepLearningAI)
 
 
 ## Data Science
