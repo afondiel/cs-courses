@@ -51,6 +51,32 @@ This is a list of Computer Science free courses and resources available on Githu
 - C
   
 
+## Free Online Coding Bootcamps
+
+- Codecademy
+- Ada Developers Academy
+- freeCodeCamp
+- Flatiron School
+- The Odin Project
+- Resilient Coders
+- App Academy Open
+- Upskill
+
+
+- Src: 
+  - [10 Best Free Coding Bootcamps in 2023](https://www.theforage.com/blog/skills/free-coding-bootcamp)
+  - [8 Best Free Coding Bootcamps of 2023](https://www.bestcolleges.com/bootcamps/find-bootcamps/free/)
+
+## Free Online Hackaton
+
+1. HackMIT (Massachusetts Institute of Technology)
+2. NASA Space Apps Challenge
+3. PennAppsXXIII (University of Pennsylvania)
+4. LAHacks
+...
+
+- Src: [15 Beginner-Friendly Hackathons](https://www.bestcolleges.com/bootcamps/guides/hackathons-for-beginners/)
+
 ## Contributing 
 
 Please refer to the following format when adding a link to any course.
