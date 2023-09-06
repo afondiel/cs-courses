@@ -23,12 +23,12 @@ This is a list of Computer Science free courses and resources available on Githu
 
 ## Data Science
 
-- IBM DataScience Proffessional Certificate
-- Data engineering
-- Data analyst
-- Data vizualization
-- Data mining
-- Data management
+- [IBM DataScience Professional Certificate - @afondiel - 2022](https://github.com/afondiel/IBM-Data-Science-Professional-Certificate-Coursera)
+- Data Engineering
+- Data Analyst
+- Data visualization
+- Data Mining
+- Data Management
 
 
 ## Computer Vision
