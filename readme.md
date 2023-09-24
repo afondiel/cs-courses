@@ -10,6 +10,9 @@ This is a list of Computer Science free courses and resources available on Githu
 
 ## AI
 
+- AI
+  - [AI-a-Z-Learn-How-To-Build-An-AI-certificate-Udemy -  @afondiel - 2022](https://github.com/afondiel/AI-a-Z-Learn-How-To-Build-An-AI-certificate-Udemy)
+
 - Machine Learning
 - Deep Leaning
 	- Supervised 
