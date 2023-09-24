@@ -39,16 +39,18 @@ This is a list of Computer Science free courses and resources available on Githu
 - [Computer Vision applied Deep learning for Self-driving Cars](https://github.com/afondiel/The-Complete-Self-Driving-Car-Course-Udemy/blob/main/self-driving-cars-dl-notes.md#projects)
 
 ## Self-Driving Cars
-
+- [Self-Driving-Cars-ROS-Autoware-FreeCourse-ApexAI - @afondiel - 2023](https://github.com/afondiel/Self-Driving-Cars-ROS-Autoware-FreeCourse-ApexAI)
 - [Self-Driving Cars Specialization - @afondiel - 2023](https://github.com/afondiel/Self-Driving-Cars-Specialization)
 - [The Complete Self-Driving Car Course Applied Deep-Learning - Udemy - @afondiel - 2021](https://github.com/afondiel/The-Complete-Self-Driving-Car-Course-Udemy/blob/main/self-driving-cars-dl-notes.md#projects)
 
 ## Programming
 
-- Python
-- C++
-- Rust 
 - C
+- C++
+- Python
+- Rust
+- Golang
+- Lua 
   
 
 ## Free Online Coding Bootcamps
