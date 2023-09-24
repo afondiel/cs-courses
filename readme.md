@@ -6,6 +6,17 @@ This is a list of Computer Science free courses and resources available on Githu
 
 **Table of Contents**
 --
+  - [Overview](#overview)
+  - [AI](#ai)
+  - [Data Science](#data-science)
+  - [Computer Vision](#computer-vision)
+  - [Self-Driving Cars](#self-driving-cars)
+  - [Programming](#programming)
+  - [Free Online Coding Bootcamps](#free-online-coding-bootcamps)
+  - [Free Online Hackaton](#free-online-hackaton)
+  - [Contributing](#contributing)
+  - [Citation \& Credits](#citation--credits)
+
 
 
 ## AI
