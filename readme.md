@@ -23,8 +23,12 @@ This is a list of Computer Science free courses and resources available on Githu
 
 - AI
   - [AI-a-Z-Learn-How-To-Build-An-AI-certificate-Udemy -  @afondiel - 2022](https://github.com/afondiel/AI-a-Z-Learn-How-To-Build-An-AI-certificate-Udemy)
+  - [Intro-to-AI-Ethics-Free-Course-Kaggle -  @afondiel - 2023](https://github.com/afondiel/Intro-to-AI-Ethics-Free-Course-Kaggle)
+  - [Intro-to-Artificial-Intelligence-Free-Course-Le-Wagon -  @afondiel - 2023](https://github.com/afondiel/Intro-to-Artificial-Intelligence-Free-Course-Le-Wagon)
 
 - Machine Learning
+
+
 - Deep Leaning
 	- Supervised 
 	- Unsupervised
