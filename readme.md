@@ -28,7 +28,6 @@ This is a list of Computer Science free courses and resources available on Githu
 
 - Machine Learning
 
-
 - Deep Leaning
 	- Supervised 
 	- Unsupervised
